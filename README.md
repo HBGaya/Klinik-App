@@ -1,4 +1,4 @@
-# 🛡️ Klinik (For Demo Use Only)
+# 👨‍⚕️ Klinik (For Demo Use Only)
 ### Industrial Portfolio — UI Showcase  
 **Note:** This application belongs to **Klinik Group, Kuwait**.  
 This repository is created **only for demo and presentation purposes** to showcase UI work, improvements, and contributions.
